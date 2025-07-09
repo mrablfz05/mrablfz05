@@ -1,5 +1,10 @@
 # 💫 About Me:
-Skilled Front-End Developer with expertise in Typescript, Next.js, and React.js.<br>Proficient in crafting responsive, user-centric web applications with a focus on<br>performance and design🔥<br>💻 Currently trying to get better at TypeScript, Rust and Next.js.<br>😎 Very passionate about new things to learn and use.
+## 👨‍💻 Skilled Front-End Developer | ML & LLM Enthusiast | 6+ Years of Experience
+
+- 🚀 Expert in **TypeScript**, **React.js**, and **Next.js** – building responsive, high-performance, user-centric web apps  
+- 🧠 Passionate about **Machine Learning** & **Large Language Models (LLMs)**  
+- 🎯 Bridging the gap between design, code, and intelligent systems  
+- 🌱 Always learning | 💡 Open to collaboration
 
 
 ## 🌐 Socials:
